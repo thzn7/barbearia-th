@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}c
+
+body{
+
+    display: flex;
+    background-color: blue;
+    color: green;
+    justify-content: space-around;
+
+}
